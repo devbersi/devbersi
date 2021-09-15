@@ -4,6 +4,7 @@
 - 🌱 Estudando Typescript/React/Node.js
 - 📫 Contate-me através do email: guibersi.13@outlook.com
 - 😄 Pronouns: ele/dele
+- 🔥 Igniter na Rocketseat 🚀
 
 <div>
   <a href="https://github.com/devbersi">
