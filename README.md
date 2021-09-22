@@ -1,6 +1,6 @@
 ### Salve Galera! eu sou o Guilherme Bersi 👋
 
-- 🔭 Atualmente trabalho como Front-End Developer na Raccoon Marketing Digital
+- 🔭 Atualmente sou Dev FullStack Junior.
 - 🌱 Estudando Typescript/React/Node.js
 - 📫 Contate-me através do email: guibersi.13@outlook.com
 - 😄 Pronouns: ele/dele
