@@ -1,10 +1,8 @@
 ### Salve Galera! eu sou o Guilherme Bersi 👋
 
-- 🔭 Atualmente sou Dev FullStack Junior.
-- 🌱 Estudando Typescript/React/Node.js
+- 🔭 Mid-Level Software Engineer.
 - 📫 Contate-me através do email: guibersi.13@outlook.com
 - 😄 Pronouns: ele/dele
-- 🔥 Igniter na Rocketseat 🚀
 
 <div>
   <a href="https://github.com/devbersi">
